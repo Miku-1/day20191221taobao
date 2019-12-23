@@ -1,6 +1,5 @@
-package pojo;
+package bean;
 
-import javafx.scene.chart.PieChart;
 import lombok.Data;
 
 import java.util.Date;
